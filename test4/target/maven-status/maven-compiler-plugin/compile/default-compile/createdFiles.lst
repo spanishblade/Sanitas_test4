@@ -1,0 +1,12 @@
+com\example\demo\api\response\OperationResult.class
+com\example\demo\model\AdditionDto.class
+com\example\demo\controller\CalculatorController.class
+com\example\demo\api\response\ResponseBase.class
+com\example\demo\Test4Application.class
+com\example\demo\api\request\OperationType.class
+com\example\demo\service\impl\CalculatorServiceImpl.class
+com\example\demo\model\CommonMethod.class
+com\example\demo\service\CalculatorService.class
+com\example\demo\controller\impl\CalculatorControllerImpl.class
+com\example\demo\model\ArithmeticOperation.class
+com\example\demo\model\SubstractionDto.class
